@@ -1,0 +1,2 @@
+service:
+  greeting: from service1
